@@ -8,25 +8,25 @@ const testimonials = [
         name: "Mark Zukerburg",
         avatar: "M",
         title: "Software Engineer",
-        description: "This is the best i have used"
+        description: "Co-founder of Facebook (now Meta Platforms, Inc.), a social media platform that has become one of the largest and most influential tech companies globally"
     },
     {
         name: "Elon Musk",
         avatar: "E",
         title: "Software Engineer",
-        description: "This is the best i have used"
+        description: "Visionary entrepreneur known for founding SpaceX, Tesla, Inc., and contributing to the development of electric cars, renewable energy"
     },
     {
         name: "Steve Job",
         avatar: "S",
         title: "Software Engineer",
-        description: "This is the best i have used"
+        description: "Entrepreneur, co-founder of Apple Inc., and a pioneer in the development of iconic products like the iPhone, iPad, and Macintosh computer."
     },
     {
         name: "Albert Estein",
         avatar: "A",
         title: "Software Engineer",
-        description: "This is the best i have used"
+        description: "Theoretical physicist renowned for developing the theory of relativity"
     },
 ]
 
